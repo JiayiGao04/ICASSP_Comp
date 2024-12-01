@@ -28,4 +28,4 @@ In this directory, the focus is on the real-time streaming detection of a person
 To get started with this project, clone this repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/JiayiGao06/ICASSP_Comp.git
+git clone https://github.com/JiayiGao06/person-in-bed-detection.git
